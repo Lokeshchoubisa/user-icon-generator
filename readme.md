@@ -39,6 +39,11 @@ icons("Lokesh Choubisa","black").then((icon)=>
 
 ```
 
+### Output
+
+<img align="center"  width="80" height="80" src="/file.png" />
+
+
 ## Want to contribute ?
 
 > Please check out this repository [here](https://github.com/Lokeshchoubisa/icon-generator)!
