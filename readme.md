@@ -1,21 +1,3 @@
-<a href=https://github.com/Lokeshchoubisa/user-icon-generator>
-   <img src=https://img.shields.io/npm/dy/user-icon-generator>
-</a>
-<a href=https://github.com/Lokeshchoubisa/user-icon-generator>
-   <img src=https://img.shields.io/npm/l/user-icon-generator>
-</a>
-<a href=https://github.com/Lokeshchoubisa/user-icon-generator>
-   <img src=https://img.shields.io/npm/v/user-icon-generator>
-</a>
-<a href=https://github.com/Lokeshchoubisa/user-icon-generator>
-   <img src=https://img.shields.io/github/repo-size/Lokeshchoubisa/user-icon-generator>
-</a>
-<a href=https://github.com/Lokeshchoubisa/user-icon-generator>
-   <img src=https://img.shields.io/bundlephobia/min/user-icon-generator/1.0.3>
-</a>
-
-
-
 ## Getting started with icon generation
 ### Installation
 This is a [Node.js](https://nodejs.org/en/) module available through the [npm](https://www.npmjs.com/package/user-icon-generator) registry.
