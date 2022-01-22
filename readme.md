@@ -13,9 +13,9 @@ $ npm install --save icon-generator
 * Requiring the module 
 
 ```javascript
-var myicon = require('icon-generator');
+var icons = require('icon-generator');
 ```
-* getJoke() method returns a random joke from jokes Array.
+* This icons(fullname,color) method returns a image .
 
  ```javascript
  
@@ -41,7 +41,7 @@ icons("Lokesh Choubisa","black").then((icon)=>
 
 ## Want to contribute ?
 
-> Please check issues [here](https://github.com/poojarathore30/make-me-laugh/issues)!
+> Please check out this repository [here](https://github.com/Lokeshchoubisa/icon-generator)!
 # Thankyou for being here! 😊
 
 Check out my other Repositories [here](https://github.com/Lokeshchoubisa)
