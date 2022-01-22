@@ -40,7 +40,7 @@ icons("Lokesh Choubisa","black").then((icon)=>
 
 ### Output
 
-<img align="center"  width="80" height="80" src="https://raw.githubusercontent.com/Lokeshchoubisa/icon-generator/master/file.png?token=GHSAT0AAAAAABQEU6QGHCHNELBPXP5FPUD6YPMDTZA" />
+<img align="center"  width="80" height="80" src="https://raw.githubusercontent.com/Lokeshchoubisa/user-icon-generator/master/file.png?token=GHSAT0AAAAAABQ22IAFASRTEHMEKKG22LHMYPMG2FA" />
 
 
 ## Want to contribute ?
